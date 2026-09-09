@@ -1,0 +1,45 @@
+commit 5e770b8b37909d3d07f96b8ac7517611c976deac
+Merge: f9188f4 6a0893b
+Author: Cheryl Wijaya <cherylieslin@gmail.com>
+Date:   Tue Sep 8 18:07:41 2026 -0700
+
+    Resolve merge conflict
+
+commit 6a0893bf098f13ba657dc8f080f742ff9ada7fa3
+Author: Cheryl Wijaya <cherylieslin@gmail.com>
+Date:   Tue Sep 8 18:05:07 2026 -0700
+
+    Add favorite movie
+
+commit f9188f42f5182dc1bf4bbac60ffe2ed6df495a56
+Author: Cheryl Wijaya <cherylieslin@gmail.com>
+Date:   Tue Sep 8 18:04:06 2026 -0700
+
+    Add favorite food
+
+commit 82011c39849df7b9d70e7e2c45aed5ea1eaeb121
+Author: Cheryl Wijaya <cherylieslin@gmail.com>
+Date:   Tue Sep 8 18:00:16 2026 -0700
+
+    Add README file
+
+commit 7f87110808eb2aa1ecd79bbf7f96d55176f3009f
+Merge: 1d2bfc0 708d34e
+Author: Cheryl Wijaya <cheryljeslin@gmail.com>
+Date:   Tue Sep 8 17:55:57 2026 -0700
+
+    Merge pull request #1 from 12345CJW/info-fill
+    
+    Fill in website information
+
+commit 708d34e47dd687922069a67a55264593a9f4dcdc
+Author: Cheryl Wijaya <cherylieslin@gmail.com>
+Date:   Tue Sep 8 17:39:53 2026 -0700
+
+    Fill in website information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
